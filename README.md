@@ -1,4 +1,5 @@
-# Group 20 Project
+# Academic Group Project
+Chips Challenge attempted as a group project. My contribution was focused on the Domain Class implementing basic logic and functionality to the game. 
 
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
